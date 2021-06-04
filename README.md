@@ -6,7 +6,7 @@ Apply intensity transformation function  s=T(r)=H{arctan[(r-128)/32]} to the ima
 Plot the figures of the original and output histograms.
 
 
-## ## DIP_2
+## DIP_2
 
 Re-synthesize the images using the DFT coefficients (1) inside (r < 30), and (2) outside (r >= 30) the circular region with radius=30 pixels (based on the original image size)
 
